@@ -90,7 +90,7 @@ Software:
 
 15. Manually start the face detection script. 
   ```bash
-  python detect_face.py
+  python detect_face.py haarcascade_frontalface_alt2.xml
   ```
   The camera will load up. 
   
