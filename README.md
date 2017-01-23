@@ -1,6 +1,6 @@
 # Janus
 ### Face-detecting door system triggered by doormat
--- Authored by Team "What the Hack" during H.A.C.K. Day at UC San Diego (with Wayne Li, Kamran Aladross, Daniel Truong, Ash Zafari and Thant Htoo Zaw)
+-- Authored by Team "What the Hack" during H.A.R.D. Hack (Hackathon) at UC San Diego (with Wayne Li, Kamran Aladross, Daniel Truong, Ash Zafari and Thant Htoo Zaw), and won 3rd place.
 
 (**Trivia**: Janus is the Roman god of *doors*, with two *faces*.)
 
