@@ -13,14 +13,14 @@ This project was built with backward compatibility as well as availability in mi
 
 Hardware: 
 ---------
-*DragonBoard 410c* with Power Supply
-*Arduino Uno* with USB cable to power 
-web camera (USB)
-servo motor
-force resistor
-flex sensor
-wiring (breadboard & jumper wires)
-microSD card (for setting up the OS of *DragonBoard*)
+*DragonBoard 410c* with Power Supply  
+*Arduino Uno* with USB cable to power   
+web camera (USB)  
+servo motor  
+force resistor  
+flex sensor  
+wiring (breadboard & jumper wires)  
+microSD card (for setting up the OS of *DragonBoard*)  
 
 **PREVIEW**
 ![Front](http://i.imgur.com/MhffDqU.jpg) ![Inside look at servo motor lock](http://i.imgur.com/JZBUXkd.jpg =10x10) ![DragonBoard behind the scene](http://i.imgur.com/dnaatbW.jpg =10x10)
