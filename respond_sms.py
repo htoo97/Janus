@@ -16,16 +16,16 @@ def sms():
 	resp = twiml.Response()
 			
 	if (message_body.lower() == 'unlock'):
-    #execute script to send 1/high to output gpio port to arduino
+    		#execute script to send 1/high to output gpio port to arduino
 		subprocess.call('./unlock_door.sh')
 		resp.message('Door access granted.')
 
-    #pause for 3 seconds
-    for i in range (0,2):
-      sleep(1)
+    		#pause for 3 seconds
+    		for i in range (0,2):
+      			sleep(1)
 
-    #execute script to send 0/low to output gpio port to arduino
-    subprocess.call('./lock_door.sh')
+    		#execute script to send 0/low to output gpio port to arduino
+    		subprocess.call('./lock_door.sh')
 	else:
 		resp.message('That day, no one saw anything.')
 
